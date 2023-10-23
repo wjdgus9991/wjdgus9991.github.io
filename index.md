@@ -76,6 +76,35 @@ PC와 모바일에서 사용할 수 있도록 개발할 예정입니다. PC판�
 
 <br>
 
+# [게임 시스템 디자인] <a name = '6'></a>
+- - -
+
+## 1. 게임 오브젝트 분해 (구성 요소 분석) <a name = '61'></a>
+
+|연번|오브젝트 이름|오브젝트 이미지|
+|:----:|:----:|:----:|
+|1|주인공|<img src="./img/주인공.png" height="300">|
+|2|상인|<img src="./img/상인.png" height="300">|
+|3|고블린 전사|<img src="./img/고블린 전사.png" height="300">|
+|4|고블린 궁수|<img src="./img/고블린 궁수.png" height="300">|
+|5|고블린 친위대|<img src="./img/고블린 친위대.png" height="300">|
+|6|고블린 왕|<img src="./img/고블린 왕.png" height="300">|
+|7|슬라임|<img src="./img/슬라임.png" height="300">|
+|8|석상골렘|<img src="./img/석상골렘.png" height="300">|
+|9|수호자석상|<img src="./img/수호자석상.png" height="300">|
+|10|강철검|<img src="./img/강철검.png" height="300">|
+|11|강철메이스|<img src="./img/강철메이스.png" height="300">|
+|12|회복물약|<img src="./img/회복물약.png" height="300">|
+|13|방패|<img src="./img/방패.png" height="300">|
+|14|쇠뇌|<img src="./img/쇠뇌.png" width="500">|
+|15|파이어 마법스크롤|<img src="./img/파이어 마법스크롤.png" width="500">|
+|16|화약통|<img src="./img/화약통.png" width="500">|
+|17|세계지도|<img src="./img/세계지도.png" width="500">|
+|18|가방|<img src="./img/가방.png" width="500">|
+|19|속성 아이콘|<img src="./img/속성 아이콘.png" width="500">|
+
+<br>
+
 ## 2. 파라미터 (속성) <a name = '62'></a>
 ### 1. 오브젝트 이름 : 김민수
 
